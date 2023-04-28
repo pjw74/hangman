@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 import random
 
+### 수정
+
 HANGMANPICS = ['''
 
   +---+
